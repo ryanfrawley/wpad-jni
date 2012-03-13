@@ -1,7 +1,5 @@
 /*
-
  * Copyright 2012 Ryan Frawley
-
  * 
  * This file is part of wpad.
  *
@@ -17,7 +15,6 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with wpad. If not, see <http://www.gnu.org/licenses/>.
-
  */
 
 package com.mercury.inputmethod.wpad;
